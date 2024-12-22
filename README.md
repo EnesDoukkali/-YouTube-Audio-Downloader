@@ -2,7 +2,7 @@
 
 **A sleek and user-friendly desktop application for downloading high-quality MP3 audio from YouTube videos.**
 
-![YouTube Audio Downloader Preview](https://via.placeholder.com/800x400?text=YouTube+Audio+Downloader+Preview)
+
 
 ---
 
